@@ -1,0 +1,27 @@
+# Révision approfondie de la séance 1
+
+- suppression du bloc R d’initialisation dans le corps du HTML autonome ;
+- code des applications replié par défaut ;
+- ajout des quatre ressources rares et des cinq issues du comité ;
+- ajout d’un diagnostic initial et de critères de compétences ;
+- ajout d’un exercice de classement de douze postes ;
+- ajout d’un exercice sur le BFR et la valeur terminale ;
+- ajout d’un pont expliquant l’écart entre promesse commerciale et VAN auditée ;
+- ajout d’une matrice de sensibilité performance–prix et du seuil technique ;
+- ajout d’un exercice de remplacement contre réparation ;
+- ajout d’une revue ex post et de sa lecture de gouvernance ;
+- ajout d’un atelier de note au comité et d’une grille d’évaluation ;
+- enrichissement du modèle R avec graphiques, contrôles et fonctions autonomes ;
+- ajout d’un guide enseignant et d’un script de lancement de toutes les applications.
+- ajout de commandes globales pour développer ou réduire le code R ;
+- ajout de commentaires oraux directement lisibles aux participants ;
+- ajout d’exercices sur la normalisation de l’activité, les seuils de négociation et le coût du report.
+- remplacement des simples appels de fonctions par des volets montrant le code complet de chaque application ;
+- ajout d’une annexe dépliable contenant l’intégralité du script R consolidé.
+- approfondissement du *capital budgeting* comme système de gouvernance et clarification des distinctions investissement/financement, rentabilité/liquidité et projet/portefeuille ;
+- formalisation des propriétés d’un scénario de référence défendable, de l’additionnalité et de la causalité décisionnelle ;
+- ajout d’une mise au point sur résultat comptable, trésorerie, financement et cohérence entre flux et taux ;
+- distinction entre sensibilité, scénario, test de résistance, risque, incertitude et ambiguïté ;
+- enrichissement de tous les corrigés majeurs par une décomposition du calcul, une interprétation financière, une lecture stratégique et une recommandation de comité ;
+- ajout d’une synthèse complète, d’une checklist réutilisable et d’une transition narrative vers la séance 2.
+- correction du chargement Quarto des scripts : les fichiers JavaScript sont désormais inclus au moyen de balises `<script>`, ce qui empêche leur contenu brut d’apparaître dans le corps de la page.
